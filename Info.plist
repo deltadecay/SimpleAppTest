@@ -24,4 +24,5 @@
         <string>1</string>
         <key>NSPrincipalClass</key>
         <string>NSApplication</string>
+</dict>
 </plist>
